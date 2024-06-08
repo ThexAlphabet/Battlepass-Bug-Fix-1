@@ -46,3 +46,12 @@ DiamondReward:
 ```
 
 Additionally, the PlaceholderAPI requirement check needs to correctly evaluate the player's statistics to determine if they meet the reward's requirements. Can you help fix these issues?
+
+
+
+
+
+```
+[16:23:24 INFO]: Checking requirement: %statistic_deaths% required: 3 actual: 0
+[16:23:24 INFO]: xAlphabet_ did not meet the requirements for ExampleReward
+```
